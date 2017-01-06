@@ -29,6 +29,12 @@ namespace BF
             return DAL.DAClients.checkLogin(log, pwd);
         }
 
+        /// <summary>
+        /// réalisé avec l'ORM EDM
+        /// </summary>
+        /// <param name="log"></param>
+        /// <param name="pwd"></param>
+        /// <returns></returns>
         public static EDM.client checkLoginEDM(string log, string pwd)
         {
             

@@ -61,10 +61,13 @@ namespace StockMarketSimulator
 	/// </summary>
 	public class MarketWatcher
 	{
-		/// <summary>
-		/// De niveau classe ! 
-		/// </summary>
-		static private System.Collections.Hashtable mStockList = new System.Collections.Hashtable();
+        /// <summary>
+        /// De niveau classe ! 
+        /// Pour mieux faire un dictionnaire doit etre utilisé !
+        /// cf.  System.Collections.Generic.Dictionary<string, SimulationUtils.StockSimulator>
+        /// </summary>
+        static private System.Collections.Hashtable mStockList = new System.Collections.Hashtable();
+       
 		/// <summary>
 		/// De niveau classe ! 
 		/// </summary>
