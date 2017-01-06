@@ -1,0 +1,11 @@
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerClient\bin\Debug\AsyncIO.dll
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerClient\bin\Debug\NetMQ.dll
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerClient\bin\Debug\NetMQ.xml
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerClient\obj\Debug\StockLoggerClient.csprojResolveAssemblyReference.cache
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerClient\bin\Debug\StockLoggerClient.exe.config
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerClient\bin\Debug\StockLoggerClient.exe
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerClient\bin\Debug\StockLoggerClient.pdb
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerClient\obj\Debug\StockLoggerClient.exe
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerClient\obj\Debug\StockLoggerClient.pdb
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerClient\bin\Debug\MicroServicesDTOs.dll
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerClient\bin\Debug\MicroServicesDTOs.pdb

@@ -1,0 +1,10 @@
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateServer\bin\Debug\WeatherUpdateServer.exe
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateServer\bin\Debug\WeatherUpdateServer.pdb
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateServer\bin\Debug\AsyncIO.dll
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateServer\bin\Debug\NetMQ.dll
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateServer\bin\Debug\NetMQ.xml
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateServer\obj\Debug\WeatherUpdateServer.csprojResolveAssemblyReference.cache
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateServer\obj\Debug\WeatherUpdateServer.exe
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateServer\obj\Debug\WeatherUpdateServer.pdb
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateServer\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateServer\bin\Debug\Newtonsoft.Json.xml

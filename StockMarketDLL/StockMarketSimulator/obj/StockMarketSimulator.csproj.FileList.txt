@@ -1,0 +1,3 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\StockMarketSimulator.dll
+bin\Release\StockMarketSimulator.dll

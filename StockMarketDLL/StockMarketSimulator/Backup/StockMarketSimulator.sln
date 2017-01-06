@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMarketSimulator", "StockMarketSimulator.csproj", "{52372D2A-96C4-47D7-A744-EC517FA0A314}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{52372D2A-96C4-47D7-A744-EC517FA0A314}.Debug.ActiveCfg = Debug|.NET
+		{52372D2A-96C4-47D7-A744-EC517FA0A314}.Debug.Build.0 = Debug|.NET
+		{52372D2A-96C4-47D7-A744-EC517FA0A314}.Release.ActiveCfg = Release|.NET
+		{52372D2A-96C4-47D7-A744-EC517FA0A314}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

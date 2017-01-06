@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1D619AAE-F2B8-47C1-B6DB-3699AE81DCBE}"
+	ProjectSection(SolutionItems) = preProject
+		StockMarketWebSite.vsd = StockMarketWebSite.vsd
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "StockMarketWebSite", "..\StockMarketWebSite", "{8CBA5563-DE2E-4C90-BDE6-2D1907ECC9D5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		ProjectReferences = "{93337215-CE4A-4A5C-BED7-21D2CD73EEEF}|StockMarket.DAL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/StockMarketWebSite"
+		Debug.AspNetCompiler.PhysicalPath = "D:\DEV\2-DotNet\3-TPs\StockMarketWebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\StockMarketWebSite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/StockMarketWebSite"
+		Release.AspNetCompiler.PhysicalPath = "D:\DEV\2-DotNet\3-TPs\StockMarketWebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\StockMarketWebSite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1627"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMarket.DAL", "..\StockMarket.DAL\StockMarket.DAL.csproj", "{93337215-CE4A-4A5C-BED7-21D2CD73EEEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CBA5563-DE2E-4C90-BDE6-2D1907ECC9D5}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{8CBA5563-DE2E-4C90-BDE6-2D1907ECC9D5}.Debug|.NET.Build.0 = Debug|Any CPU
+		{8CBA5563-DE2E-4C90-BDE6-2D1907ECC9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBA5563-DE2E-4C90-BDE6-2D1907ECC9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBA5563-DE2E-4C90-BDE6-2D1907ECC9D5}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{8CBA5563-DE2E-4C90-BDE6-2D1907ECC9D5}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{8CBA5563-DE2E-4C90-BDE6-2D1907ECC9D5}.Release|.NET.ActiveCfg = Debug|Any CPU
+		{8CBA5563-DE2E-4C90-BDE6-2D1907ECC9D5}.Release|.NET.Build.0 = Debug|Any CPU
+		{8CBA5563-DE2E-4C90-BDE6-2D1907ECC9D5}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBA5563-DE2E-4C90-BDE6-2D1907ECC9D5}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{8CBA5563-DE2E-4C90-BDE6-2D1907ECC9D5}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{8CBA5563-DE2E-4C90-BDE6-2D1907ECC9D5}.Release|Mixed Platforms.Build.0 = Debug|Any CPU
+		{93337215-CE4A-4A5C-BED7-21D2CD73EEEF}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{93337215-CE4A-4A5C-BED7-21D2CD73EEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93337215-CE4A-4A5C-BED7-21D2CD73EEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93337215-CE4A-4A5C-BED7-21D2CD73EEEF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{93337215-CE4A-4A5C-BED7-21D2CD73EEEF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{93337215-CE4A-4A5C-BED7-21D2CD73EEEF}.Release|.NET.ActiveCfg = Release|Any CPU
+		{93337215-CE4A-4A5C-BED7-21D2CD73EEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93337215-CE4A-4A5C-BED7-21D2CD73EEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93337215-CE4A-4A5C-BED7-21D2CD73EEEF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{93337215-CE4A-4A5C-BED7-21D2CD73EEEF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

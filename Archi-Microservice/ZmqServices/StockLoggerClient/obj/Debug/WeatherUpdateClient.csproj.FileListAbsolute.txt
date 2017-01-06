@@ -1,0 +1,8 @@
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateClient\bin\Debug\WeatherUpdateClient.exe.config
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateClient\bin\Debug\WeatherUpdateClient.exe
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateClient\bin\Debug\WeatherUpdateClient.pdb
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateClient\bin\Debug\AsyncIO.dll
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateClient\bin\Debug\NetMQ.dll
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateClient\bin\Debug\NetMQ.xml
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateClient\obj\Debug\WeatherUpdateClient.exe
+D:\Dev\Dotnet\Samples\src\WeatherUpdater\WeatherUpdateClient\obj\Debug\WeatherUpdateClient.pdb

@@ -1,0 +1,6 @@
+bin\Debug\StockMarket.DAL.dll.config
+bin\Debug\StockMarket.DAL.dll
+bin\Debug\StockMarket.DAL.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\StockMarket.DAL.dll
+obj\Debug\StockMarket.DAL.pdb

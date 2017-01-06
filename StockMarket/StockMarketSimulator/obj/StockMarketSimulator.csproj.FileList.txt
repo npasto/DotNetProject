@@ -1,0 +1,9 @@
+obj\Debug\StockMarketSimulator.exe
+obj\Debug\StockMarketSimulator.pdb
+bin\Debug\StockMarketSimulator.exe
+bin\Debug\StockMarketSimulator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\StockMarketSimulator.Aff.resources
+obj\Debug\StockMarketSimulator.Form1.resources
+obj\Debug\StockMarketSimulator.csproj.GenerateResource.Cache
+bin\Debug\StockMarketSimulator.XML

@@ -1,0 +1,22 @@
+BODY
+{
+	font-family: Arial;
+}
+
+.tabEntete
+{
+	vertical-align: middle;
+	font-family: Arial;
+	letter-spacing: 3px;
+	background-color: olive;
+	text-align: center;
+}
+.tabBody
+{
+	vertical-align: baseline;
+	border-bottom: black dotted;
+	font-family: Arial;
+	text-align: left;
+	background-color:Transparent;
+}
+

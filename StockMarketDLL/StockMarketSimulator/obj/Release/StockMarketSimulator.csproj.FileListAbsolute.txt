@@ -1,0 +1,3 @@
+D:\Dev\Dotnet\3-TPs\StockMarketDLL\StockMarketSimulator\bin\Release\StockMarketSimulator.dll
+D:\Dev\Dotnet\3-TPs\StockMarketDLL\StockMarketSimulator\obj\Release\StockMarketSimulator.dll
+D:\Dev\Dotnet\3-TPs\StockMarketDLL\StockMarketSimulator\obj\Release\StockMarketSimulator.csprojResolveAssemblyReference.cache

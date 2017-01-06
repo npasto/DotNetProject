@@ -1,0 +1,13 @@
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerServer\bin\Debug\AsyncIO.dll
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerServer\bin\Debug\NetMQ.dll
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerServer\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerServer\bin\Debug\NetMQ.xml
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerServer\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerServer\bin\Debug\StockRealTime.exe
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerServer\bin\Debug\StockRealTime.pdb
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerServer\obj\Debug\StockRealTime.exe
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerServer\obj\Debug\StockRealTime.pdb
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerServer\obj\Debug\StockRealTime.csprojResolveAssemblyReference.cache
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerServer\bin\Debug\StockRealTime.exe.config
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerServer\bin\Debug\MicroServicesDTOs.dll
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\ZmqServices\StockLoggerServer\bin\Debug\MicroServicesDTOs.pdb

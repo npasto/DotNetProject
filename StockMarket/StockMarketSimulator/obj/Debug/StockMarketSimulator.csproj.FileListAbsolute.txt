@@ -1,0 +1,9 @@
+D:\Dev\Dotnet\3-TPs\StockMarket\StockMarketSimulator\bin\Debug\StockMarketSimulator.XML
+D:\Dev\Dotnet\3-TPs\StockMarket\StockMarketSimulator\obj\Debug\StockMarketSimulator.exe
+D:\Dev\Dotnet\3-TPs\StockMarket\StockMarketSimulator\obj\Debug\StockMarketSimulator.pdb
+D:\Dev\Dotnet\3-TPs\StockMarket\StockMarketSimulator\bin\Debug\StockMarketSimulator.exe
+D:\Dev\Dotnet\3-TPs\StockMarket\StockMarketSimulator\bin\Debug\StockMarketSimulator.pdb
+D:\Dev\Dotnet\3-TPs\StockMarket\StockMarketSimulator\obj\Debug\StockMarketSimulator.csprojResolveAssemblyReference.cache
+D:\Dev\Dotnet\3-TPs\StockMarket\StockMarketSimulator\obj\Debug\StockMarketSimulator.Aff.resources
+D:\Dev\Dotnet\3-TPs\StockMarket\StockMarketSimulator\obj\Debug\StockMarketSimulator.Form1.resources
+D:\Dev\Dotnet\3-TPs\StockMarket\StockMarketSimulator\obj\Debug\StockMarketSimulator.csproj.GenerateResource.Cache

@@ -1,0 +1,4 @@
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\MicroServicesDTOs\bin\Debug\MicroServicesDTOs.dll
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\MicroServicesDTOs\bin\Debug\MicroServicesDTOs.pdb
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\MicroServicesDTOs\obj\Debug\MicroServicesDTOs.dll
+D:\Dev\Dotnet\3-TPs\Archi-Microservice\MicroServicesDTOs\obj\Debug\MicroServicesDTOs.pdb

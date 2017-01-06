@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StockMarketSimulator</name>
+    </assembly>
+    <members>
+        <member name="T:StockMarketSimulator.Aff">
+            <summary>
+            Description résumée de Aff.
+            </summary>
+            
+        </member>
+        <member name="F:StockMarketSimulator.Aff.components">
+            <summary>
+            Variable nécessaire au concepteur.
+            </summary>
+        </member>
+        <member name="M:StockMarketSimulator.Aff.Dispose(System.Boolean)">
+            <summary>
+            Nettoyage des ressources utilisées.
+            </summary>
+        </member>
+        <member name="M:StockMarketSimulator.Aff.InitializeComponent">
+            <summary>
+            Méthode requise pour la prise en charge du concepteur - ne modifiez pas
+            le contenu de cette méthode avec l'éditeur de code.
+            </summary>
+        </member>
+        <member name="T:StockMarketSimulator.SimulationUtils.StockSimulator">
+            <summary>
+            Classe de description d'une valeur de stock simulée
+            </summary>
+        </member>
+        <member name="F:StockMarketSimulator.SimulationUtils.StockSimulator.mStockNameList">
+            <remark>Tableau des noms de stocks à simuler</remark>
+        </member>
+        <member name="E:StockMarketSimulator.SimulationUtils.StockSimulator.ValueChanged">
+            <remark>evt levé lorsque la valeur du stock a chagé</remark>
+        </member>
+        <member name="T:StockMarketSimulator.SimulationUtils.StockSimulator.ValueChangedFunctionHandler">
+            <remark>Délégué : description de la fonction à lever lorsque l'evt ValueChanged est apparu</remark>
+        </member>
+        <member name="F:StockMarketSimulator.SimulationUtils.StockSimulator.BackgroundThread">
+            <remark>Thread de calcul des valeurs</remark>
+        </member>
+        <member name="M:StockMarketSimulator.SimulationUtils.StockSimulator.#ctor(System.String[])">
+            <summary>
+            Créateur : il prend la liste des noms de sotcks à simuler en paramètre
+            </summary>
+            
+        </member>
+        <member name="M:StockMarketSimulator.SimulationUtils.StockSimulator.StartSimulation">
+            <summary>
+            Créateur
+            </summary>
+            
+        </member>
+        <member name="M:StockMarketSimulator.SimulationUtils.StockSimulator.GenerateRandomValue">
+            <summary>
+            Méthode qui boucle à l'infini est qui génére un valeur de stock aléatoire
+            </summary>
+            
+        </member>
+        <member name="T:StockMarketSimulator.Form1">
+            <summary>
+            Description résumée de Form1.
+            </summary>
+        </member>
+        <member name="F:StockMarketSimulator.Form1.components">
+            <summary>
+            Variable nécessaire au concepteur.
+            </summary>
+        </member>
+        <member name="T:StockMarketSimulator.Form1.writeTextCallback">
+            <summary>
+            ce callback dest drhfjfhjfgh
+            </summary>
+            <param name="StName">sfsdgfs</param>
+            <param name="StPrice">sdsfsdf</param>
+        </member>
+        <member name="M:StockMarketSimulator.Form1.Dispose(System.Boolean)">
+            <summary>
+            Nettoyage des ressources utilisées.
+            </summary>
+            
+        </member>
+        <member name="M:StockMarketSimulator.Form1.InitializeComponent">
+            <summary>
+            Méthode requise pour la prise en charge du concepteur - ne modifiez pas
+            le contenu de cette méthode avec l'éditeur de code.
+            </summary>
+        </member>
+        <member name="M:StockMarketSimulator.Form1.Main">
+            <summary>
+            Point d'entrée principal de l'application.
+            </summary>
+        </member>
+        <member name="T:StockMarketSimulator.StockSnapShot">
+            <summary>
+            Classe contenant les valeurs instantanées d'un stock.
+            </summary>
+        </member>
+        <member name="T:StockMarketSimulator.MarketWatcher">
+            <summary>
+            Classe de surveillance du marché
+            elle contient la liste des stocks(Hastable) avec leurs valeurs (classe StockSnapShot)
+            </summary>
+        </member>
+        <member name="M:StockMarketSimulator.MarketWatcher.UpdateStockValue(System.String,System.Single)">
+            <summary>
+            Quand un evt de changement apparait : retrouver le stock dans mStockList
+            et mettre a jour sa valeur instantanée
+            </summary>
+        </member>
+    </members>
+</doc>

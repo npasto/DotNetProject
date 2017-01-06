@@ -1,0 +1,11 @@
+D:\DEV\2-DotNet\3-TPs\StockMarket.DAL\bin\Debug\StockMarket.DAL.dll.config
+D:\DEV\2-DotNet\3-TPs\StockMarket.DAL\bin\Debug\StockMarket.DAL.dll
+D:\DEV\2-DotNet\3-TPs\StockMarket.DAL\bin\Debug\StockMarket.DAL.pdb
+D:\DEV\2-DotNet\3-TPs\StockMarket.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\DEV\2-DotNet\3-TPs\StockMarket.DAL\obj\Debug\StockMarket.DAL.dll
+D:\DEV\2-DotNet\3-TPs\StockMarket.DAL\obj\Debug\StockMarket.DAL.pdb
+D:\Dev\Dotnet\3-TPs\StockMarket.DAL\bin\Debug\StockMarket.DAL.dll.config
+D:\Dev\Dotnet\3-TPs\StockMarket.DAL\bin\Debug\StockMarket.DAL.dll
+D:\Dev\Dotnet\3-TPs\StockMarket.DAL\bin\Debug\StockMarket.DAL.pdb
+D:\Dev\Dotnet\3-TPs\StockMarket.DAL\obj\Debug\StockMarket.DAL.dll
+D:\Dev\Dotnet\3-TPs\StockMarket.DAL\obj\Debug\StockMarket.DAL.pdb
