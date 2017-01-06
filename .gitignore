@@ -1,7 +1,9 @@
-./Archi-Microservice/Archi-Microservice/bin
-./Archi-Microservice/MicroServicesDTOs/bin
-./Archi-Microservice/ZmqServices/StockLoggerClient/bin
-./Archi-Microservice/ZmqServices/StockLoggerServer/bin
-./StockMarket/StockMarketSimulator/bin
-./StockMarket.DAL/bin
-./StockMarketDLL/StockMarketSimulator/bin
+/Archi-Microservice/Archi-Microservice/bin
+/Archi-Microservice/MicroServicesDTOs/bin
+/Archi-Microservice/ZmqServices/StockLoggerClient/bin
+/Archi-Microservice/ZmqServices/StockLoggerServer/bin
+/StockMarket/StockMarketSimulator/bin
+/StockMarketDAL/bin
+/StockMarket.DAL/bin
+/StockMarketDLL/StockMarketSimulator/bin
+*.suo
