@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T11:29:32.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nbmMrd7tSMH54D6cM9fl" version="18.2.0" type="github"><diagram id="S6alP8AFgusNVIPdiEz2" name="Page-1">7Vpdb9MwFP01EU9U+Wi67nFrN5hgCDEGvCE3vk3NnDiyna3l13MdO8mKhwTSEoTIS+Qc3/jj3GPn+iZBsir2rySpdteCAg/ikO6DZB3E8enJAq8GOFhgMQ8tkEtGLRT1wA37Dg5szWpGQR0ZaiG4ZtUxmImyhEwfYURK8XBsthX8uNeK5OABNxnhPvqZUb2z6DINe/w1sHzX9hyFrqYgrbFrQu0IFQ8WamySiyBZSSG0LRX7FXDDXcuLbejyF7XdwCSU+ncegMuXN5+uvn2Nr7+84e9ui28qpC9bmu8Jr92M14tZisg1aFI4b26FxOumZpyyMg9cR6HSh5YmnFxlinXBzzKN5sn5PUjNkMi3ZAP8vVBMM1GiyUZoLYpHBmec5aZCiwrRnS443kRYFLXmrIRV59oQQTdefBb2v2Qi6vhFXYIoQMsDmrgH5qduAk6T83li7x96D7dz3D1ybuK0TJym8q7lnnYsOOb/wAux7wXL4j9Nc5oc04wEejQnT9C8CAeiee6xnM7imYHOe2krwYlRO5QgczOb3JRIwypuY6AMi2gG8p5l8Bc9tBWlviQF44be18DvwTTiKtxGGsXufiW4GcuawpbUHJs4J66zDL0JZphKS3EHvuGWce6juSSUQd9wKUp4Htl0/j90W6qvkXiopZg+oZFkFs0Q+4QTYLxVwuT54T2fjun5hed5WmdavTDPIVF5twdMS38sAcRhPKIATjwBfCTqDhGzA5iaSxKskuDshFCwEeeW5TXK4q++qP8bLcTLEbWw9LQwrfrRPJ3OR/T0qb/q0xkOILyxDlfd+efN+6tmAAqUKszcJikMLoXlmBFAFHlaEJWL/av+DFBJoCxzN3hErvm0KwwvhSQZMxaIYk8Ki9nJDIccfsAjIG2Wf39GZCVuEUUrkFe3V5MghhdEOmZAECVPCgLRcH0oke4MS29FvhHibnL+8M5fjhkjRH7maL2wvv9o+sukUCZO0DtodgXNJDQvCoHxg5rkMLgc5qPmiCI/SYRyiPqYsQsZM1LpWtrEIinplDYaRQxtnn4cMfh5I7furdttyohpIwpVYYhAmu9jRJNJCsNLYTFq0OhnkEyM8NMHBnukaLYHStRuI4ikkxSGl8Jy1HDRTyDhK6JJKxRE6ubIoDTh3ecEdVAaikkHg+sgjUaNHP30ktPB2YfA/srQBQuwh6x2ckB7Rp02JkkMLYn580SPeNv/ztHUPfonJrn4AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-08T13:20:43.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="D7_zsqE1Kr9LMCmGE08x" version="18.2.0" type="github">
+  <diagram id="S6alP8AFgusNVIPdiEz2" name="Page-1">
+    <mxGraphModel dx="2345" dy="918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eF-SVIj_2MXKlNUmjs0d-10" value="D6.5 Metamodel for building " style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="20" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-66" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" edge="1" parent="1" source="eF-SVIj_2MXKlNUmjs0d-4" target="lp64O0GcjZRMjtb3DUXG-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eF-SVIj_2MXKlNUmjs0d-4" value="5.2.2 Building solar energy &lt;br&gt;generation design service" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="390.9999999999998" y="225" width="15" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-62" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" edge="1" parent="1" source="eF-SVIj_2MXKlNUmjs0d-5" target="lp64O0GcjZRMjtb3DUXG-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eF-SVIj_2MXKlNUmjs0d-5" value="5.3.1. Ventilation service" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="51.0000000000001" y="150" width="16" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eF-SVIj_2MXKlNUmjs0d-6" value="ducts&#39; integration service" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="155.5" y="122" width="20" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" edge="1" parent="1" source="eF-SVIj_2MXKlNUmjs0d-19" target="lp64O0GcjZRMjtb3DUXG-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eF-SVIj_2MXKlNUmjs0d-19" value="D6.4 AR tool for execution validation" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="185.0000000000002" y="98" width="10" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-61" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" edge="1" parent="1" source="eF-SVIj_2MXKlNUmjs0d-7" target="lp64O0GcjZRMjtb3DUXG-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eF-SVIj_2MXKlNUmjs0d-7" value="Task 5.3.2 Façade configurator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350.5000000000001" y="21" width="21" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-65" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" edge="1" parent="1" source="eF-SVIj_2MXKlNUmjs0d-9" target="lp64O0GcjZRMjtb3DUXG-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eF-SVIj_2MXKlNUmjs0d-9" value="T5.4 Services for KPI assessment" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="251.49999999999991" y="30" width="15" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-63" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" edge="1" parent="1" source="eF-SVIj_2MXKlNUmjs0d-11" target="lp64O0GcjZRMjtb3DUXG-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eF-SVIj_2MXKlNUmjs0d-11" value="operation peration&lt;br&gt;prediction module" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="191.49999999999991" y="278" width="21" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-71" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" edge="1" parent="1" source="eF-SVIj_2MXKlNUmjs0d-12" target="lp64O0GcjZRMjtb3DUXG-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eF-SVIj_2MXKlNUmjs0d-12" value="6.7.1 Resident energy information GUI" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="115.5000000000001" y="213" width="21" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-70" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" edge="1" parent="1" source="eF-SVIj_2MXKlNUmjs0d-13" target="lp64O0GcjZRMjtb3DUXG-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eF-SVIj_2MXKlNUmjs0d-13" value="6.7.3 Dynamic Logbook" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="405.9999999999998" y="121" width="19" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eF-SVIj_2MXKlNUmjs0d-14" value="D6.3 DT across the&lt;br&gt;entire process" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;gradientColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="289" y="554" width="13" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;noEdgeStyle=1;" edge="1" parent="1" source="eF-SVIj_2MXKlNUmjs0d-15" target="lp64O0GcjZRMjtb3DUXG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eF-SVIj_2MXKlNUmjs0d-15" value="D6.1 Service for capturing and &lt;br&gt;processing on site spatial data" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="129.99999999999983" y="392" width="15" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" edge="1" parent="1" source="eF-SVIj_2MXKlNUmjs0d-17" target="lp64O0GcjZRMjtb3DUXG-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eF-SVIj_2MXKlNUmjs0d-17" value="6.7.2 Building operator dashboard" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310.0000000000001" y="110" width="12" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-68" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" edge="1" parent="1" source="eF-SVIj_2MXKlNUmjs0d-18" target="lp64O0GcjZRMjtb3DUXG-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eF-SVIj_2MXKlNUmjs0d-18" value="D6.4 Smart installation system" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="303.9999999999997" y="291" width="19" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-64" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" edge="1" parent="1" source="lp64O0GcjZRMjtb3DUXG-13" target="lp64O0GcjZRMjtb3DUXG-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-13" value="Load data" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;gradientColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300.5" y="433" width="74" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-60" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" edge="1" parent="1" source="lp64O0GcjZRMjtb3DUXG-23" target="lp64O0GcjZRMjtb3DUXG-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-23" value="CDE" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;gradientColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="228.5" y="364" width="38" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-41" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;exitDx=0;exitDy=0;exitPerimeter=0;noEdgeStyle=1;" edge="1" parent="1" source="eF-SVIj_2MXKlNUmjs0d-14" target="lp64O0GcjZRMjtb3DUXG-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="326" y="385.57142857142867" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" edge="1" parent="1" source="lp64O0GcjZRMjtb3DUXG-13" target="eF-SVIj_2MXKlNUmjs0d-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="456" as="sourcePoint" />
+            <mxPoint x="315" y="393" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-42" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;noEdgeStyle=1;" edge="1" parent="1" source="lp64O0GcjZRMjtb3DUXG-40" target="lp64O0GcjZRMjtb3DUXG-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-40" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;load IFC data&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;gradientColor=none;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="181.5" y="483" width="57.5" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lp64O0GcjZRMjtb3DUXG-59" value="Launch service" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225.5" y="176" width="71" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
